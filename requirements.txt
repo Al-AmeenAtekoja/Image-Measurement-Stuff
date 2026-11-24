@@ -1,6 +1,6 @@
 streamlit
 streamlit_drawable_canvas
-PIL
+PIL==12.0.0
 pandas
 pptx
 pptx_replace
