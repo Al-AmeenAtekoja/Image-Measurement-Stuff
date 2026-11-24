@@ -1,6 +1,6 @@
 streamlit
 streamlit_drawable_canvas
-PIL==12.0.0
+pillow
 pandas
 pptx
 pptx_replace
