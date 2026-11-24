@@ -2,5 +2,5 @@ streamlit
 streamlit_drawable_canvas
 pillow
 pandas
-pptx
+python-pptx
 pptx_replace
