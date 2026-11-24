@@ -1,0 +1,1 @@
+Simple tool to automate SIQ+ slide genration dynamically updating the images and numbers within the slides different parameters. Employing the use of streamlit to achieve this.

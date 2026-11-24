@@ -1,0 +1,7 @@
+streamlit
+streamlit_drawable_canvas
+pptx.util  
+PIL
+pandas
+pptx
+pptx_replace
